@@ -11,18 +11,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Universe%20🌌&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 </div>
-<div align="center">
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JacquesUwonda/JacquesUwonda/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JacquesUwonda/JacquesUwonda/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JacquesUwonda/JacquesUwonda/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+---
 
 ## 🧑‍💻 About Me
 
