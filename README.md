@@ -123,7 +123,7 @@ const jacques = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JacquesUwonda&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%"/>
+  <img src="https://gh-trophy.cdnsoft.net/?username=JacquesUwonda&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
