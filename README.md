@@ -168,46 +168,6 @@ const jacques = {
 
 ---
 
-## 🎮 Space War — Beat My Contribution Record
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&width=100%" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🚀+Space+War+—+Beat+My+Contribution+Record!;My+contributions+are+the+stars+in+space...;Shoot+them+all+and+beat+my+record+🏆" alt="Space War Typing SVG" />
-
-<br/><br/>
-
-> *🌌 My GitHub contributions rain down as glowing stars. Take control of your spaceship, shoot them all, and see if you can beat my record — right here, no new tab needed!*
-
-<br/>
-
-<a href="https://jacquesuwonda.github.io/JacquesUwonda/game.html">
-  <img src="https://img.shields.io/badge/🚀_PLAY_SPACE_WAR_NOW-Beat_My_Record!-FFD700?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=FFD700" alt="Play Space War"/>
-</a>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="200"><b>🕹️ Controls</b><br/><sub>← → or A D to move<br/>SPACE to shoot</sub></td>
-    <td align="center" width="200"><b>🌟 Goal</b><br/><sub>Shoot 1000 contribution stars<br/>to beat Jacques' record!</sub></td>
-    <td align="center" width="200"><b>❤️ Lives</b><br/><sub>3 lives — don't let stars<br/>reach the bottom!</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🏆_Can_you_beat_my_contribution_record%3F-Share_your_score!-gold?style=for-the-badge&labelColor=1a1a2e" />
-
-<br/><br/>
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
