@@ -168,7 +168,7 @@ const jacques = {
 
 ---
 
-## 🎮 Interactive Game Zone
+## 🎮 Space War — Beat My Contribution Record
 
 <div align="center">
 
@@ -176,117 +176,31 @@ const jacques = {
 
 <br/>
 
-<!-- Game Zone Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🕹️+Welcome+to+Jacques'+Game+Zone!;Choose+a+game+and+take+a+fun+break+🎯;Beat+a+high+score+%26+come+back+for+more+🏆" alt="Game Zone Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=🚀+Space+War+—+Beat+My+Contribution+Record!;My+contributions+are+the+stars+in+space...;Shoot+them+all+and+beat+my+record+🏆" alt="Space War Typing SVG" />
 
 <br/><br/>
 
-> *🎯 Need a break from code? Pick a game, have fun, and come back refreshed! All games open in a new tab.*
+> *🌌 My GitHub contributions rain down as glowing stars. Take control of your spaceship, shoot them all, and see if you can beat my record — right here, no new tab needed!*
 
 <br/>
 
+<a href="https://jacquesuwonda.github.io/JacquesUwonda/game.html">
+  <img src="https://img.shields.io/badge/🚀_PLAY_SPACE_WAR_NOW-Beat_My_Record!-FFD700?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=FFD700" alt="Play Space War"/>
+</a>
+
+<br/><br/>
+
 <table>
   <tr>
-    <td align="center" width="170">
-      <a href="https://playsnake.org" target="_blank">
-        <img src="https://img.shields.io/badge/🐍-Snake-00C853?style=for-the-badge&labelColor=1a1a2e" alt="Snake"/>
-        <br/><sub><b>Snake</b></sub>
-        <br/><sub>Eat, grow, survive!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Easy-4CAF50?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-00C853?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Snake"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://play2048.co" target="_blank">
-        <img src="https://img.shields.io/badge/🔢-2048-FF6B35?style=for-the-badge&labelColor=1a1a2e" alt="2048"/>
-        <br/><sub><b>2048</b></sub>
-        <br/><sub>Merge tiles to win!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Medium-FF9800?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-FF6B35?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play 2048"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://tetris.com/play-tetris" target="_blank">
-        <img src="https://img.shields.io/badge/🧩-Tetris-7B2D8B?style=for-the-badge&labelColor=1a1a2e" alt="Tetris"/>
-        <br/><sub><b>Tetris</b></sub>
-        <br/><sub>Stack & clear rows!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Medium-FF9800?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-7B2D8B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Tetris"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="170">
-      <a href="https://playtictactoe.org" target="_blank">
-        <img src="https://img.shields.io/badge/❌⭕-Tic_Tac_Toe-E91E63?style=for-the-badge&labelColor=1a1a2e" alt="Tic-Tac-Toe"/>
-        <br/><sub><b>Tic-Tac-Toe</b></sub>
-        <br/><sub>X vs O — who wins?</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Easy-4CAF50?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-E91E63?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Tic-Tac-Toe"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://www.chess.com/play/computer" target="_blank">
-        <img src="https://img.shields.io/badge/♟️-Chess-00BCD4?style=for-the-badge&labelColor=1a1a2e" alt="Chess"/>
-        <br/><sub><b>Chess</b></sub>
-        <br/><sub>Outsmart the AI!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Hard-F44336?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-00BCD4?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Chess"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://minesweeper.online" target="_blank">
-        <img src="https://img.shields.io/badge/💣-Minesweeper-607D8B?style=for-the-badge&labelColor=1a1a2e" alt="Minesweeper"/>
-        <br/><sub><b>Minesweeper</b></sub>
-        <br/><sub>Don't hit a mine!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Hard-F44336?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-607D8B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Minesweeper"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="170">
-      <a href="https://www.wordle.com" target="_blank">
-        <img src="https://img.shields.io/badge/📝-Wordle-6AAB4B?style=for-the-badge&labelColor=1a1a2e" alt="Wordle"/>
-        <br/><sub><b>Wordle</b></sub>
-        <br/><sub>Guess the 5-letter word!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Medium-FF9800?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-6AAB4B?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Wordle"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://pac-man.appspot.com" target="_blank">
-        <img src="https://img.shields.io/badge/👻-Pac_Man-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Pac-Man"/>
-        <br/><sub><b>Pac-Man</b></sub>
-        <br/><sub>Eat dots, dodge ghosts!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Medium-FF9800?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-FFD700?style=for-the-badge&logo=gamepad&logoColor=black" alt="Play Pac-Man"/>
-      </a>
-    </td>
-    <td align="center" width="170">
-      <a href="https://doodlejump.com" target="_blank">
-        <img src="https://img.shields.io/badge/🚀-Doodle_Jump-FF4081?style=for-the-badge&labelColor=1a1a2e" alt="Doodle Jump"/>
-        <br/><sub><b>Doodle Jump</b></sub>
-        <br/><sub>Jump as high as you can!</sub>
-        <br/><img src="https://img.shields.io/badge/Difficulty-Easy-4CAF50?style=flat-square"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/▶_PLAY_NOW-FF4081?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play Doodle Jump"/>
-      </a>
-    </td>
+    <td align="center" width="200"><b>🕹️ Controls</b><br/><sub>← → or A D to move<br/>SPACE to shoot</sub></td>
+    <td align="center" width="200"><b>🌟 Goal</b><br/><sub>Shoot 1000 contribution stars<br/>to beat Jacques' record!</sub></td>
+    <td align="center" width="200"><b>❤️ Lives</b><br/><sub>3 lives — don't let stars<br/>reach the bottom!</sub></td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🏆_Share_your_high_score_in_the_discussions!-gold?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🏆_Can_you_beat_my_contribution_record%3F-Share_your_score!-gold?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
